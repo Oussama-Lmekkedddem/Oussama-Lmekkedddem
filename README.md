@@ -17,7 +17,7 @@
 <h3>🤝 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oussama-lmekkedddem-3b4606247/" target="_blank">
+  <a href="https://www.linkedin.com/in/oussama-lmekkeddem-3b4606247/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://gitlab.com/Oussama-Lmekkedddem" target="_blank">
