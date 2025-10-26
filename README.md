@@ -1,6 +1,6 @@
 <h1 align="center">✨ LMEKKEDDEM Oussama ✨</h1>
 
-<h3 align="center">🚀 Software Engineer | Freelance Developer | Junior Developer @ <a href="https://www.nttdata.com/global/en/" target="_blank">NTT DATA</a></h3>
+<h3 align="center">🚀 Software Engineer | Freelance Developer | Junior Developer
 
 <table>
 <tr>
