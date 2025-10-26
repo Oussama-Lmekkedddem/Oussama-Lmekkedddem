@@ -1,6 +1,6 @@
 <h1 align="center">✨ LMEKKEDDEM Oussama ✨</h1>
 
-<h3 align="center">🚀 Software Engineer | Freelance Developer | Junior Developer
+<h3 align="center">🚀 Software Engineer | Freelance Developer | Junior Developer </h3>
 
 <table>
 <tr>
